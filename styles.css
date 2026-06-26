@@ -23,4 +23,10 @@ h1 {
 h2 {
     color: magenta;
     font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+button {
+    background-color: olive;
+    color: white;
+    width: 200px;
 }
